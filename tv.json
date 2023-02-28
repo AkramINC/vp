@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "came": "Arryadia",
+      "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/arryadia-vipotv-min.png"
+    },
+    {
+      "came": "Al Aoula",
+      "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/al-aoula-vipotv.png"
+    },
+    {
+      "came": "Al Maghribia",
+      "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/Almaghribiax2.png"
+    },
+    {
+      "came": "Assadissa",
+      "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/assadissax-vipotv-min.png"
+    },
+    {
+      "came": "Athaqafia",
+      "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/athaqafiax-vipotv-min.png"
+    },
+    {
+      "came": "Laayoune TV",
+      "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/laayoune-vipotv-min.png"
+    },
+    {
+      "came": "Tamazight TV",
+      "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/tamazightx2vipotv-min.png"
+    },
+    {
+      "came": "M1 TV",
+      "link": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/medi1tv-vipotv-min.png"
+    },
+    {
+      "came": "Al Jazeera",
+      "link": "https://live-hls-web-aja.getaj.net/AJA/06.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/Al-Jazeera-vipotv-min.png"
+    },
+    {
+      "came": "Redbull TV",
+      "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2020/09/redbulltv-vipotv.png"
+    },
+    {
+      "came": "Racing.com",
+      "link": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2020/12/racing-com-vipotv.png"
+    },
+    {
+      "came": "Right Now TV",
+      "link": "https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/540/rightnowtvSCTE35.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2020/11/RightNow-vipotv.png"
+    },
+    {
+      "came": "TMZ Sports",
+      "link": "https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/index_4.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/05/tmz-sports-live-vipotv-america.png"
+    },
+    {
+      "came": "All Sports",
+      "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w806176299.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/03/All-Sports-TV-vipotv-brazil.png"
+    },
+    {
+      "came": "Sharjah Sport",
+      "link": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/Sharjah-Sport-live-vipotv.png"
+    },
+    {
+      "came": "Abu Dhabi Tv",
+      "link": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/Abu-Dhabi-TV-live-vipotv.png"
+    },
+    {
+      "came": "Alaan TV",
+      "link": "https://stream-08.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xpvlhlmTC3FT28RyuRkZx5Hxpv1hj915cZYnWb5eueFI)/dm/3/x74wje5/s/live-2.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/05/Alaan-live-vipotv-united-arab-emirates.png"
+    },
+    {
+      "came": "Dubai One",
+      "link": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/01/dubai-one-live-vipotv.png"
+    },
+    {
+      "came": "Dubai Racing 1",
+      "link": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/Dubai-Racing-1-live-vipotv.png"
+    },
+    {
+      "came": "Dubai Racing 2",
+      "link": "https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/Dubai-Racing-1-live-vipotv.png"
+    },
+    {
+      "came": "Dubai Racing 3",
+      "link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/Dubai-Racing-1-live-vipotv.png"
+    },
+    {
+      "came": "DW",
+      "link": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream02/streamPlaylist.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2019/05/dw-d-vipotv-min.png"
+    },
+    {
+      "came": "Majid TV",
+      "link": "https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/Majid-TV-live-vipotv.png"
+    },
+    {
+      "came": "MBC 3",
+      "link": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/03/MBC-3-live-vipotv-dhabi.png"
+    },
+    {
+      "came": "MBC 5",
+      "link": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/04/mbc5-live-vipotv-United-Arab-Emirates.png"
+    },
+    {
+      "came": "Nat Geo",
+      "link": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/National-Geographic-Abu-Dhabi-live-vipo-tv.png"
+    },
+    {
+      "came": "Spacetoon",
+      "link": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1438867251_b946000_slAR.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/03/Spacetoon-live-vipotv-united-arap-emirates.png"
+    },
+    {
+      "came": "YAS TV",
+      "link": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/02/yas-tv-live-vipotv.png"
+    },
+    {
+      "came": "Zee Aflam",
+      "link": "https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/05/Zee-Aflam-live-vipotv-united-arabic-emirates.png"
+    },
+    {
+      "came": "Zee Alwan",
+      "link": "https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v4a1/mono.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/04/Zee-Alwan-live-vipotv-United-Arab-Emirates.png"
+    },
+    {
+      "came": "RTV Sport",
+      "link": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2021/04/rtv-san-marinor-tv-live-vipotv.png"
+    },
+    {
+      "came": "MBC 1",
+      "link": "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/03/MBC-2-live-vipotv-egypt.png"
+    },
+    {
+      "came": "MBC Masr",
+      "link": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/03/MBC-Masr-live-vipotv-egypt.png"
+    },
+    {
+      "came": "Rotana Khalejia",
+      "link": "https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/05/rotana-khalejia-live-vipotv-saudi-arabia.png"
+    },
+    {
+      "came": "Rotana Plus",
+      "link": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/05/rotana-plus-live-vipotv-saudi-arabia.png"
+    },
+    {
+      "came": "Wanasah",
+      "link": "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2m3u8",
+      "icon": "https://vipotv.com/wp-content/uploads/2022/08/Wanasah-live-vipotv-Saudi-Arabia.png"
+    }
+  ]
+}
