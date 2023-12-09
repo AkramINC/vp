@@ -1,5 +1,6 @@
 {
   "cpa": "https://www.google.com/",
+  "cpa_active": true,
   "data": [
       {
         "title": "First One",
