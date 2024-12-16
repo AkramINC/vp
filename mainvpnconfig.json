@@ -27,7 +27,7 @@
     "VpnPassword": "INeFUC6tmY",
     "VpnList": [
       {
-        "vpnName"  : "Canada-test",
+        "vpnName"  : "AE-Dubai",
         "vpnLocked": false,
         "vpnIso"   : "ae",
         "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
@@ -77,37 +77,37 @@
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-CA-Toronto-TCP.ovpn"
       },
       {
-        "vpnName": "Deutschland",
+        "vpnName": "Germany-Frankfurt",
         "vpnLocked": true,
         "vpnIso": "de",
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-DE-Frankfurt-TCP.ovpn"
       },
       {
-        "vpnName": "Saudi Arabia",
+        "vpnName": "Saudi Arabia-Jeddah",
         "vpnLocked": true,
         "vpnIso": "sa",
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-SA-Jeddah%20-%20Virtual-TCP.ovpn"
       },
       {
-        "vpnName": "United Kingdom",
+        "vpnName": "United Kingdom-London",
         "vpnLocked": true,
         "vpnIso": "uk",
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
       },
       {
-        "vpnName": "united-states",
+        "vpnName": "United States-Ashburn",
         "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
       },
       {
-        "vpnName": "united-states-Atlanta",
+        "vpnName": "United States-Atlanta",
         "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Atlanta-TCP.ovpn"
       },
       {
-        "vpnName": "united-states-Boston",
+        "vpnName": "United States-Boston",
         "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Boston-TCP.ovpn"
