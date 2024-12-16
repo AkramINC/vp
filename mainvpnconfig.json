@@ -91,7 +91,7 @@
       {
         "vpnName": "United Kingdom-London",
         "vpnLocked": true,
-        "vpnIso": "uk",
+        "vpnIso": "gb",
         "vpnFile": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
       },
       {
