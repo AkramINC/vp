@@ -8,7 +8,7 @@
   
    "AdsController": {
 
-    "AdInterval"          : 3,
+    "AdInterval"          : 4,
 
     "HuaweiAppId"         : "",
     
@@ -24,7 +24,7 @@
   "VpnController": {
       
     "VpnUserName": "ncpkhadijanatiki3@namecheap",
-    "VpnPassword": "E7y1yPPW8z",
+    "VpnPassword": "VkOven2I2s",
     "VpnList": [
       {
         "vpnName"  : "AE-Dubai",
